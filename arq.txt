@@ -1,0 +1,6 @@
+O que é o overhead de criação de processos?
+O que é o overhead de mudança de contexto de processos?
+O que é um processo com fluxo simples e com múltiplos fluxos? Cite um exemplo.
+O que são threads? Explique e exemplifique suas possíveis vantagens
+Como funcionam as threads a nível de usuário, sistema e híbridas? Quais as vantagens e desvantagens entre uma abordagem e outra.
+Quais os possíveis problemas que podem acontecer com o uso de threads?
